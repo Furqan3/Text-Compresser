@@ -1,0 +1,15 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\MASTER\source\repos\mydsproject\Mycode.h(98,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MASTER\source\repos\mydsproject\Mycode.h(235,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MASTER\source\repos\mydsproject\Mycode.h(242,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MASTER\source\repos\mydsproject\Form1.h(329,38): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\MASTER\source\repos\mydsproject\Form1.h(329,38): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\MASTER\source\repos\mydsproject\Form1.h(329,38): warning C4129: 'd': unrecognized character escape sequence
+C:\Users\MASTER\source\repos\mydsproject\Form1.h(368,38): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\MASTER\source\repos\mydsproject\Form1.h(368,38): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\MASTER\source\repos\mydsproject\Form1.h(368,38): warning C4129: 'd': unrecognized character escape sequence
+C:\Users\MASTER\source\repos\mydsproject\Form1.h(312,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\MASTER\source\repos\mydsproject\Form1.h(346,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\MASTER\source\repos\mydsproject\Form1.h(385,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  mydsproject.vcxproj -> C:\Users\MASTER\source\repos\mydsproject\Debug\mydsproject.exe

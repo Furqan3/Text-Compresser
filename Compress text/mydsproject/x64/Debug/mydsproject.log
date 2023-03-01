@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+C:\Users\M\Downloads\Compressed\Ds-Semester-Project-main\mydsproject\Mycode.h(90,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\M\Downloads\Compressed\Ds-Semester-Project-main\mydsproject\Mycode.h(199,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\M\Downloads\Compressed\Ds-Semester-Project-main\mydsproject\Form1.h(312,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\M\Downloads\Compressed\Ds-Semester-Project-main\mydsproject\Form1.h(346,10): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\M\Downloads\Compressed\Ds-Semester-Project-main\mydsproject\Form1.h(385,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Form1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  mydsproject.vcxproj -> C:\Users\M\Downloads\Compressed\Ds-Semester-Project-main\mydsproject\x64\Debug\mydsproject.exe

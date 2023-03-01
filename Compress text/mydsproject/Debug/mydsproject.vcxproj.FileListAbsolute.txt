@@ -1,0 +1,4 @@
+C:\Users\MASTER\source\repos\mydsproject\Debug\mydsproject.vcxproj.AssemblyReference.cache
+C:\Users\MASTER\source\repos\mydsproject\Debug\mydsproject.exe
+C:\Users\MASTER\source\repos\mydsproject\Debug\mydsproject.Form1.resources
+C:\Users\MASTER\source\repos\mydsproject\Debug\mydsproject.vcxproj.GenerateResource.cache
